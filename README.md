@@ -41,7 +41,7 @@ The objective of this project was to identify the highest-impact opportunities f
 
 ## Interactive Dashboard
 
-![Opportunity Explorer](images/dashboard-explorer.PNG)
+![Opportunity Explorer](images/dashboard_explorer.PNG)
 
 ## Key Findings
 
