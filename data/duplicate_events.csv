@@ -1,0 +1,1001 @@
+duplicate_id,event_date,source,department_id,department_name,service_line,contributing_factors,contributing_factor_types,primary_category,status,resolution_type
+1,2025-10-07,Internal Registration,1,Primary Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+2,2025-04-12,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+3,2025-03-23,Internal Registration,5,Lab,Ancillary,Transposed first/last name,Data Entry Error,Patient Name,Resolved,KND
+4,2025-02-19,Internal Registration,2,Emergency Department,Emergency,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+5,2025-07-13,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+6,2025-02-05,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+7,2025-05-23,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+8,2025-12-16,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+9,2025-11-24,Internal Registration,4,Radiology,Ancillary,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+10,2025-06-11,Internal Registration,1,Primary Care,Ambulatory,Address typo,Data Entry Error,Contact Information,Resolved,KND
+11,2025-11-26,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered; Sibling DOB entered,Data Entry Error,Patient Name,Resolved,Merge
+12,2025-10-26,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+13,2025-07-15,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered; Sibling DOB entered,Data Entry Error,Patient Name,Resolved,Merge
+14,2025-02-28,Internal Registration,2,Emergency Department,Emergency,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+15,2025-08-21,Internal Registration,4,Radiology,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+16,2025-11-24,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo; Sibling name entered,Data Entry Error,Date of Birth,Resolved,Merge
+17,2025-09-29,Internal Registration,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Open,
+18,2025-06-07,External Provider,7,Specialty Clinic,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,KND
+19,2025-09-30,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+20,2025-08-05,Internal Registration,1,Primary Care,Ambulatory,Transposed first/last name,Data Entry Error,Patient Name,Resolved,KND
+21,2025-07-11,External Provider,5,Lab,Ancillary,DOB typo; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Resolved,Merge
+22,2025-04-28,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+23,2025-09-06,Internal Registration,1,Primary Care,Ambulatory,Name typo; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+24,2025-04-08,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,KND
+25,2025-12-01,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+26,2025-04-08,External Provider,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+27,2025-10-09,Internal Registration,1,Primary Care,Ambulatory,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+28,2025-05-02,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+29,2025-07-19,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+30,2025-10-12,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Open,
+31,2025-02-01,Internal Registration,2,Emergency Department,Emergency,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+32,2025-09-18,Internal Registration,1,Primary Care,Ambulatory,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+33,2025-10-19,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+34,2025-05-14,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+35,2025-06-11,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+36,2025-10-03,External Provider,5,Lab,Ancillary,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+37,2025-12-27,Self-Schedule,3,Urgent Care,Ambulatory,Name typo; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,KND
+38,2025-02-23,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling name entered; Sibling DOB entered,Data Entry Error,Patient Name,Resolved,KND
+39,2025-11-06,External Provider,1,Primary Care,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,Merge
+40,2025-01-27,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+41,2025-05-15,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+42,2025-01-19,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+43,2025-01-21,Internal Registration,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,KND
+44,2025-07-28,Internal Registration,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,KND
+45,2025-04-02,External Provider,4,Radiology,Ancillary,Referring provider name entered as patient name; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,Merge
+46,2025-01-20,Internal Registration,2,Emergency Department,Emergency,Incomplete demographics; DOB typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+47,2025-01-13,Internal Registration,1,Primary Care,Ambulatory,Transposed first/last name; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+48,2025-09-18,Internal Registration,2,Emergency Department,Emergency,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+49,2025-04-02,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+50,2025-08-12,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,KND
+51,2025-01-01,Internal Registration,4,Radiology,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+52,2025-08-09,Internal Registration,6,Surgery,Surgical Services,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+53,2025-06-03,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+54,2025-12-07,Internal Registration,5,Lab,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+55,2025-05-27,External Provider,7,Specialty Clinic,Ambulatory,DOB typo; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+56,2025-09-19,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+57,2025-12-11,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,KND
+58,2025-11-09,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Open,
+59,2025-09-11,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+60,2025-08-06,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,KND
+61,2025-03-04,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+62,2025-08-15,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+63,2025-09-01,Internal Registration,5,Lab,Ancillary,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,KND
+64,2025-05-01,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+65,2025-12-28,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+66,2025-07-19,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+67,2025-01-04,External Provider,7,Specialty Clinic,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+68,2025-10-07,External Provider,1,Primary Care,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+69,2025-12-09,Internal Registration,6,Surgery,Surgical Services,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+70,2025-01-14,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+71,2025-04-04,External Provider,7,Specialty Clinic,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,KND
+72,2025-08-04,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+73,2025-06-29,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Open,
+74,2025-08-27,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,KND
+75,2025-03-25,Internal Registration,5,Lab,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+76,2025-07-23,External Provider,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,KND
+77,2025-06-04,External Provider,1,Primary Care,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+78,2025-08-08,Internal Registration,4,Radiology,Ancillary,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+79,2025-08-10,Internal Registration,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+80,2025-05-19,External Provider,7,Specialty Clinic,Ambulatory,Incomplete demographics; Name typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,KND
+81,2025-05-06,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed first/last name; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,Merge
+82,2025-01-15,Internal Registration,1,Primary Care,Ambulatory,DOB typo; Transposed first/last name,Data Entry Error,Date of Birth,Resolved,Merge
+83,2025-11-02,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+84,2025-09-08,Internal Registration,2,Emergency Department,Emergency,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+85,2025-05-31,Internal Registration,1,Primary Care,Ambulatory,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+86,2025-08-06,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+87,2025-04-09,External Provider,7,Specialty Clinic,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+88,2025-10-29,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+89,2025-04-02,External Provider,7,Specialty Clinic,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,Merge
+90,2025-03-06,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+91,2025-06-24,Internal Registration,5,Lab,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+92,2025-11-19,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+93,2025-08-02,Internal Registration,1,Primary Care,Ambulatory,Incomplete demographics; Name typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+94,2025-10-29,Internal Registration,5,Lab,Ancillary,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+95,2025-04-17,External Provider,1,Primary Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+96,2025-07-29,Internal Registration,2,Emergency Department,Emergency,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+97,2025-08-21,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+98,2025-04-12,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,KND
+99,2025-03-26,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+100,2025-07-26,Internal Registration,4,Radiology,Ancillary,Incomplete demographics; Transposed first/last name,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+101,2025-06-15,External Provider,7,Specialty Clinic,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,Merge
+102,2025-01-11,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+103,2025-11-30,External Provider,7,Specialty Clinic,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,Merge
+104,2025-08-29,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Name typo,Data Entry Error,Date of Birth,Open,
+105,2025-05-28,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+106,2025-09-21,Internal Registration,2,Emergency Department,Emergency,Name typo; DOB typo,Data Entry Error,Patient Name,Resolved,KND
+107,2025-01-27,Internal Registration,1,Primary Care,Ambulatory,Transposed first/last name; Transposed DOB,Data Entry Error,Patient Name,Resolved,Merge
+108,2025-11-08,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Open,
+109,2025-02-28,Internal Registration,5,Lab,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+110,2025-08-30,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Sibling name entered,Data Entry Error,Date of Birth,Resolved,KND
+111,2025-02-05,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+112,2025-05-25,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+113,2025-09-05,Internal Registration,6,Surgery,Surgical Services,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+114,2025-12-24,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+115,2025-03-06,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Open,
+116,2025-03-15,Internal Registration,4,Radiology,Ancillary,Incomplete demographics; Transposed first/last name,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+117,2025-06-23,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Open,
+118,2025-06-12,Internal Registration,2,Emergency Department,Emergency,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+119,2025-12-17,Internal Registration,6,Surgery,Surgical Services,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+120,2025-12-22,External Provider,5,Lab,Ancillary,Name typo; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+121,2025-05-06,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+122,2025-10-26,Internal Registration,4,Radiology,Ancillary,Name typo; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,Merge
+123,2025-05-28,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+124,2025-08-06,Internal Registration,1,Primary Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+125,2025-07-15,Internal Registration,2,Emergency Department,Emergency,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+126,2025-10-17,Internal Registration,4,Radiology,Ancillary,DOB typo; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Resolved,Merge
+127,2025-04-28,Internal Registration,5,Lab,Ancillary,Incomplete demographics; Address typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,KND
+128,2025-12-04,Internal Registration,2,Emergency Department,Emergency,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+129,2025-01-18,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,KND
+130,2025-03-09,Internal Registration,5,Lab,Ancillary,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+131,2025-09-04,Internal Registration,6,Surgery,Surgical Services,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+132,2025-04-26,External Provider,1,Primary Care,Ambulatory,Incomplete demographics; Name typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,KND
+133,2025-10-02,Internal Registration,5,Lab,Ancillary,Incomplete demographics; DOB typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+134,2025-08-30,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Sibling name entered,Data Entry Error,Date of Birth,Resolved,Merge
+135,2025-08-26,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+136,2025-09-10,External Provider,1,Primary Care,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,Merge
+137,2025-12-23,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+138,2025-08-16,External Provider,7,Specialty Clinic,Ambulatory,Referring provider name entered as patient name; Address typo,Data Entry Error,Patient Name,Resolved,Merge
+139,2025-11-27,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+140,2025-12-06,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+141,2025-10-17,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; Guardian entered own DOB,Data Entry Error,Patient Name,Open,
+142,2025-03-17,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+143,2025-10-04,Internal Registration,4,Radiology,Ancillary,Incomplete demographics,Registration Information,Demographics/Registration,Open,
+144,2025-05-02,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+145,2025-02-02,Internal Registration,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+146,2025-01-23,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+147,2025-09-03,Internal Registration,7,Specialty Clinic,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+148,2025-06-14,Internal Registration,2,Emergency Department,Emergency,Address typo,Data Entry Error,Contact Information,Resolved,KND
+149,2025-11-02,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+150,2025-11-30,Internal Registration,2,Emergency Department,Emergency,Name typo,Data Entry Error,Patient Name,Resolved,KND
+151,2025-07-24,Internal Registration,4,Radiology,Ancillary,Transposed first/last name; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,KND
+152,2025-08-31,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+153,2025-10-12,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+154,2025-08-05,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,KND
+155,2025-05-23,Internal Registration,5,Lab,Ancillary,Transposed DOB; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+156,2025-12-03,Internal Registration,6,Surgery,Surgical Services,Incomplete demographics; Transposed DOB,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+157,2025-01-04,Internal Registration,2,Emergency Department,Emergency,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+158,2025-02-16,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+159,2025-10-18,Internal Registration,1,Primary Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+160,2025-08-15,Internal Registration,6,Surgery,Surgical Services,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+161,2025-08-09,Internal Registration,2,Emergency Department,Emergency,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+162,2025-11-03,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+163,2025-03-08,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+164,2025-01-22,Self-Schedule,8,Behavioral Health,Behavioral Health,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+165,2025-11-24,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+166,2025-12-20,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+167,2025-06-08,External Provider,1,Primary Care,Ambulatory,Referring provider name entered as patient name; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+168,2025-06-28,Internal Registration,1,Primary Care,Ambulatory,Name typo; Transposed DOB,Data Entry Error,Patient Name,Resolved,Merge
+169,2025-03-30,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+170,2025-10-16,Internal Registration,5,Lab,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+171,2025-02-04,Internal Registration,2,Emergency Department,Emergency,Transposed DOB; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Resolved,Merge
+172,2025-01-20,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+173,2025-09-17,Self-Schedule,8,Behavioral Health,Behavioral Health,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+174,2025-04-07,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+175,2025-06-25,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+176,2025-09-26,External Provider,1,Primary Care,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,KND
+177,2025-11-03,Internal Registration,1,Primary Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+178,2025-05-10,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+179,2025-06-29,Internal Registration,5,Lab,Ancillary,Incomplete demographics; DOB typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+180,2025-10-14,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+181,2025-09-27,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+182,2025-06-24,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+183,2025-02-21,External Provider,7,Specialty Clinic,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,KND
+184,2025-11-02,Internal Registration,4,Radiology,Ancillary,Transposed first/last name; Transposed DOB,Data Entry Error,Patient Name,Resolved,Merge
+185,2025-07-30,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+186,2025-05-03,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling name entered; Sibling DOB entered,Data Entry Error,Patient Name,Resolved,Merge
+187,2025-08-14,Self-Schedule,8,Behavioral Health,Behavioral Health,Name typo,Data Entry Error,Patient Name,Resolved,KND
+188,2025-04-13,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Open,
+189,2025-02-22,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+190,2025-09-20,Internal Registration,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+191,2025-01-28,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+192,2025-02-20,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+193,2025-03-13,Internal Registration,4,Radiology,Ancillary,Name typo; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+194,2025-03-18,Internal Registration,2,Emergency Department,Emergency,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+195,2025-01-25,Internal Registration,5,Lab,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+196,2025-10-02,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+197,2025-05-04,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+198,2025-10-06,Internal Registration,1,Primary Care,Ambulatory,Transposed first/last name,Data Entry Error,Patient Name,Resolved,KND
+199,2025-07-11,Internal Registration,7,Specialty Clinic,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+200,2025-06-20,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Sibling name entered,Data Entry Error,Date of Birth,Resolved,Merge
+201,2025-12-23,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+202,2025-04-14,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+203,2025-10-06,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+204,2025-12-02,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+205,2025-07-17,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,KND
+206,2025-02-12,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+207,2025-02-10,Internal Registration,1,Primary Care,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+208,2025-08-17,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+209,2025-01-30,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+210,2025-03-15,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,KND
+211,2025-07-05,Internal Registration,5,Lab,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+212,2025-02-09,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+213,2025-04-06,Internal Registration,4,Radiology,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+214,2025-11-10,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+215,2025-08-16,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+216,2025-05-29,External Provider,4,Radiology,Ancillary,Address typo; DOB typo,Data Entry Error,Contact Information,Resolved,Merge
+217,2025-03-04,Internal Registration,6,Surgery,Surgical Services,Incomplete demographics; Transposed DOB,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+218,2025-08-28,External Provider,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+219,2025-09-03,Internal Registration,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,KND
+220,2025-12-15,Internal Registration,5,Lab,Ancillary,Name typo; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,Merge
+221,2025-01-29,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB; Address typo,Data Entry Error,Date of Birth,Resolved,Merge
+222,2025-09-23,Internal Registration,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+223,2025-06-05,Internal Registration,6,Surgery,Surgical Services,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+224,2025-11-16,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+225,2025-11-25,Internal Registration,4,Radiology,Ancillary,Transposed DOB; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Resolved,Merge
+226,2025-11-18,Internal Registration,2,Emergency Department,Emergency,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+227,2025-08-21,Internal Registration,4,Radiology,Ancillary,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+228,2025-06-10,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+229,2025-05-04,Internal Registration,2,Emergency Department,Emergency,DOB typo; Address typo,Data Entry Error,Date of Birth,Resolved,Merge
+230,2025-11-12,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+231,2025-03-23,Self-Schedule,8,Behavioral Health,Behavioral Health,Name typo; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+232,2025-09-16,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+233,2025-12-01,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+234,2025-07-07,Internal Registration,2,Emergency Department,Emergency,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+235,2025-02-07,Internal Registration,2,Emergency Department,Emergency,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+236,2025-03-07,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+237,2025-09-18,External Provider,7,Specialty Clinic,Ambulatory,Name typo; Address typo,Data Entry Error,Patient Name,Resolved,Merge
+238,2025-03-18,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+239,2025-06-03,Internal Registration,4,Radiology,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,KND
+240,2025-01-09,Internal Registration,4,Radiology,Ancillary,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+241,2025-01-14,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered; Sibling DOB entered,Data Entry Error,Patient Name,Resolved,Merge
+242,2025-01-27,Internal Registration,2,Emergency Department,Emergency,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+243,2025-12-15,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+244,2025-04-15,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+245,2025-04-17,Self-Schedule,8,Behavioral Health,Behavioral Health,Name typo; Sibling DOB entered,Data Entry Error,Patient Name,Resolved,Merge
+246,2025-08-24,Internal Registration,7,Specialty Clinic,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Open,
+247,2025-12-21,External Provider,1,Primary Care,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+248,2025-05-28,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Sibling name entered,Data Entry Error,Date of Birth,Resolved,Merge
+249,2025-03-16,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+250,2025-12-23,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,KND
+251,2025-02-21,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+252,2025-03-22,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+253,2025-06-14,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Open,
+254,2025-01-20,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,KND
+255,2025-07-23,External Provider,1,Primary Care,Ambulatory,Referring provider name entered as patient name; Address typo,Data Entry Error,Patient Name,Open,
+256,2025-11-05,Internal Registration,1,Primary Care,Ambulatory,Incomplete demographics; DOB typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+257,2025-03-10,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+258,2025-05-12,Internal Registration,2,Emergency Department,Emergency,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+259,2025-11-09,Internal Registration,1,Primary Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+260,2025-06-15,Internal Registration,6,Surgery,Surgical Services,Transposed first/last name; Transposed DOB,Data Entry Error,Patient Name,Resolved,Merge
+261,2025-10-26,External Provider,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+262,2025-06-07,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+263,2025-06-01,Self-Schedule,3,Urgent Care,Ambulatory,Name typo; Sibling DOB entered,Data Entry Error,Patient Name,Resolved,Merge
+264,2025-12-15,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Name typo,Data Entry Error,Date of Birth,Resolved,KND
+265,2025-10-16,Internal Registration,6,Surgery,Surgical Services,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+266,2025-09-08,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+267,2025-08-25,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Sibling name entered,Data Entry Error,Date of Birth,Resolved,Merge
+268,2025-02-07,Internal Registration,2,Emergency Department,Emergency,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+269,2025-08-30,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+270,2025-07-15,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Sibling name entered,Data Entry Error,Date of Birth,Resolved,KND
+271,2025-10-04,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Open,
+272,2025-04-25,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+273,2025-04-28,Internal Registration,5,Lab,Ancillary,Transposed first/last name; Address typo,Data Entry Error,Patient Name,Resolved,Merge
+274,2025-12-05,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+275,2025-07-25,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name; Sibling DOB entered,Data Entry Error,Patient Name,Resolved,Merge
+276,2025-04-30,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Guardian entered own name,Data Entry Error,Date of Birth,Open,
+277,2025-06-04,Internal Registration,5,Lab,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+278,2025-10-30,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+279,2025-11-26,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed first/last name,Data Entry Error,Patient Name,Resolved,KND
+280,2025-10-03,Internal Registration,5,Lab,Ancillary,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+281,2025-10-15,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,KND
+282,2025-02-10,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+283,2025-12-11,External Provider,4,Radiology,Ancillary,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+284,2025-04-22,Internal Registration,1,Primary Care,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+285,2025-03-02,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+286,2025-06-14,Internal Registration,5,Lab,Ancillary,Transposed DOB; Address typo,Data Entry Error,Date of Birth,Resolved,Merge
+287,2025-09-12,Internal Registration,2,Emergency Department,Emergency,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+288,2025-04-24,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+289,2025-04-11,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+290,2025-11-25,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Name typo,Data Entry Error,Date of Birth,Open,
+291,2025-10-05,Internal Registration,2,Emergency Department,Emergency,DOB typo; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+292,2025-01-25,External Provider,5,Lab,Ancillary,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,KND
+293,2025-07-11,Internal Registration,2,Emergency Department,Emergency,DOB typo; Address typo,Data Entry Error,Date of Birth,Resolved,Merge
+294,2025-01-09,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+295,2025-04-02,Internal Registration,2,Emergency Department,Emergency,Name typo; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,KND
+296,2025-05-17,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+297,2025-02-11,Internal Registration,1,Primary Care,Ambulatory,Transposed first/last name; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+298,2025-01-05,Internal Registration,6,Surgery,Surgical Services,Name typo; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+299,2025-09-28,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Open,
+300,2025-05-24,External Provider,1,Primary Care,Ambulatory,DOB typo; Referring provider name entered as patient name,Data Entry Error,Date of Birth,Resolved,Merge
+301,2025-10-28,Internal Registration,4,Radiology,Ancillary,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,KND
+302,2025-12-13,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo; Sibling name entered,Data Entry Error,Date of Birth,Resolved,KND
+303,2025-06-27,Internal Registration,2,Emergency Department,Emergency,Name typo; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,Merge
+304,2025-09-09,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,KND
+305,2025-11-13,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+306,2025-03-20,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+307,2025-05-19,Internal Registration,2,Emergency Department,Emergency,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+308,2025-02-15,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+309,2025-07-18,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+310,2025-12-17,Internal Registration,5,Lab,Ancillary,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+311,2025-08-04,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+312,2025-11-12,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+313,2025-06-18,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+314,2025-12-22,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Sibling name entered,Data Entry Error,Date of Birth,Resolved,Merge
+315,2025-07-21,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo; Sibling name entered,Data Entry Error,Date of Birth,Resolved,Merge
+316,2025-01-14,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+317,2025-07-29,External Provider,7,Specialty Clinic,Ambulatory,Name typo; DOB typo,Data Entry Error,Patient Name,Resolved,KND
+318,2025-07-13,Internal Registration,1,Primary Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+319,2025-12-21,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+320,2025-02-25,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Name typo,Data Entry Error,Date of Birth,Resolved,KND
+321,2025-12-13,Internal Registration,5,Lab,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,KND
+322,2025-04-24,Internal Registration,7,Specialty Clinic,Ambulatory,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+323,2025-12-14,Internal Registration,4,Radiology,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+324,2025-02-13,Internal Registration,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+325,2025-09-05,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+326,2025-01-12,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+327,2025-05-05,Internal Registration,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Open,
+328,2025-11-19,Internal Registration,4,Radiology,Ancillary,Transposed first/last name,Data Entry Error,Patient Name,Resolved,KND
+329,2025-10-31,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+330,2025-10-23,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+331,2025-09-08,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+332,2025-08-23,Internal Registration,4,Radiology,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+333,2025-06-06,Internal Registration,6,Surgery,Surgical Services,DOB typo; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+334,2025-08-05,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+335,2025-10-12,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Open,
+336,2025-01-05,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,KND
+337,2025-09-09,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+338,2025-05-30,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+339,2025-09-11,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,KND
+340,2025-01-22,Internal Registration,1,Primary Care,Ambulatory,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+341,2025-05-07,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+342,2025-03-02,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+343,2025-03-13,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB; Address typo,Data Entry Error,Date of Birth,Resolved,Merge
+344,2025-12-27,Internal Registration,6,Surgery,Surgical Services,Transposed DOB; Transposed first/last name,Data Entry Error,Date of Birth,Resolved,Merge
+345,2025-07-30,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+346,2025-05-07,External Provider,5,Lab,Ancillary,Referring provider name entered as patient name; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,Merge
+347,2025-08-20,Internal Registration,5,Lab,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+348,2025-10-25,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+349,2025-08-08,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+350,2025-09-06,Internal Registration,2,Emergency Department,Emergency,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+351,2025-03-22,Internal Registration,6,Surgery,Surgical Services,Name typo; Transposed DOB,Data Entry Error,Patient Name,Resolved,Merge
+352,2025-03-23,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; Sibling DOB entered,Data Entry Error,Patient Name,Resolved,Merge
+353,2025-11-29,Internal Registration,6,Surgery,Surgical Services,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+354,2025-12-27,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+355,2025-01-05,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+356,2025-06-10,Internal Registration,6,Surgery,Surgical Services,Transposed first/last name; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+357,2025-12-13,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+358,2025-11-18,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+359,2025-03-13,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed first/last name,Data Entry Error,Patient Name,Resolved,KND
+360,2025-05-22,Internal Registration,4,Radiology,Ancillary,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+361,2025-01-14,Internal Registration,1,Primary Care,Ambulatory,Address typo,Data Entry Error,Contact Information,Resolved,KND
+362,2025-06-01,Internal Registration,5,Lab,Ancillary,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+363,2025-07-04,Internal Registration,5,Lab,Ancillary,DOB typo; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+364,2025-02-07,External Provider,1,Primary Care,Ambulatory,DOB typo; Name typo,Data Entry Error,Date of Birth,Resolved,KND
+365,2025-09-17,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+366,2025-02-12,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB; Sibling name entered,Data Entry Error,Date of Birth,Resolved,Merge
+367,2025-11-21,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+368,2025-05-03,Internal Registration,4,Radiology,Ancillary,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+369,2025-12-03,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+370,2025-09-25,Internal Registration,1,Primary Care,Ambulatory,Address typo; Name typo,Data Entry Error,Contact Information,Open,
+371,2025-03-02,Internal Registration,6,Surgery,Surgical Services,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+372,2025-02-09,Internal Registration,1,Primary Care,Ambulatory,DOB typo; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+373,2025-02-22,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+374,2025-01-07,Internal Registration,5,Lab,Ancillary,Address typo,Data Entry Error,Contact Information,Resolved,KND
+375,2025-10-11,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+376,2025-06-13,Internal Registration,5,Lab,Ancillary,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+377,2025-09-22,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+378,2025-06-17,External Provider,5,Lab,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,KND
+379,2025-05-05,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+380,2025-05-06,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,KND
+381,2025-01-05,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+382,2025-09-29,External Provider,1,Primary Care,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+383,2025-04-29,External Provider,7,Specialty Clinic,Ambulatory,Address typo; Referring provider name entered as patient name,Data Entry Error,Contact Information,Resolved,Merge
+384,2025-03-10,Internal Registration,4,Radiology,Ancillary,DOB typo; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Resolved,Merge
+385,2025-05-30,Internal Registration,2,Emergency Department,Emergency,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+386,2025-10-27,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,KND
+387,2025-04-17,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+388,2025-04-21,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+389,2025-12-13,Internal Registration,2,Emergency Department,Emergency,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+390,2025-10-09,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+391,2025-07-10,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; DOB typo,Data Entry Error,Patient Name,Resolved,KND
+392,2025-02-03,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+393,2025-08-10,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; DOB typo,Data Entry Error,Patient Name,Resolved,KND
+394,2025-04-06,Internal Registration,2,Emergency Department,Emergency,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+395,2025-09-13,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+396,2025-09-27,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+397,2025-09-03,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+398,2025-04-23,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+399,2025-10-27,Self-Schedule,8,Behavioral Health,Behavioral Health,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+400,2025-01-29,External Provider,5,Lab,Ancillary,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+401,2025-03-30,Internal Registration,7,Specialty Clinic,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,KND
+402,2025-10-16,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,KND
+403,2025-01-20,Self-Schedule,8,Behavioral Health,Behavioral Health,Name typo; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+404,2025-04-14,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,KND
+405,2025-03-17,Internal Registration,2,Emergency Department,Emergency,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+406,2025-02-21,Internal Registration,7,Specialty Clinic,Ambulatory,Incomplete demographics; DOB typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+407,2025-12-29,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Sibling name entered,Data Entry Error,Date of Birth,Resolved,Merge
+408,2025-06-07,External Provider,7,Specialty Clinic,Ambulatory,Incomplete demographics; Referring provider name entered as patient name,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+409,2025-10-18,Internal Registration,2,Emergency Department,Emergency,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+410,2025-03-14,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,KND
+411,2025-12-29,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+412,2025-06-29,Internal Registration,5,Lab,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+413,2025-07-31,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+414,2025-11-30,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+415,2025-05-14,Internal Registration,1,Primary Care,Ambulatory,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+416,2025-02-17,External Provider,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+417,2025-06-19,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered; Sibling name entered,Data Entry Error,Date of Birth,Resolved,Merge
+418,2025-05-25,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+419,2025-01-02,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+420,2025-03-29,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+421,2025-12-05,Internal Registration,7,Specialty Clinic,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+422,2025-01-23,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+423,2025-12-08,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+424,2025-09-25,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+425,2025-01-18,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+426,2025-03-27,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed DOB; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+427,2025-08-11,External Provider,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Open,
+428,2025-02-04,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+429,2025-01-07,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,KND
+430,2025-10-29,Internal Registration,4,Radiology,Ancillary,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+431,2025-10-02,Internal Registration,7,Specialty Clinic,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,KND
+432,2025-03-30,Internal Registration,6,Surgery,Surgical Services,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+433,2025-06-19,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,KND
+434,2025-06-05,Internal Registration,1,Primary Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+435,2025-06-14,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+436,2025-09-06,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+437,2025-09-26,Internal Registration,6,Surgery,Surgical Services,Transposed first/last name; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+438,2025-08-22,Internal Registration,1,Primary Care,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+439,2025-03-05,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+440,2025-08-31,Internal Registration,1,Primary Care,Ambulatory,Transposed first/last name,Data Entry Error,Patient Name,Open,
+441,2025-05-26,Internal Registration,2,Emergency Department,Emergency,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+442,2025-04-16,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+443,2025-03-09,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+444,2025-12-30,Internal Registration,4,Radiology,Ancillary,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+445,2025-12-13,Internal Registration,2,Emergency Department,Emergency,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+446,2025-07-11,Internal Registration,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Open,
+447,2025-05-22,Internal Registration,4,Radiology,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+448,2025-03-18,Internal Registration,6,Surgery,Surgical Services,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+449,2025-06-13,Internal Registration,1,Primary Care,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+450,2025-07-18,Internal Registration,5,Lab,Ancillary,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+451,2025-11-23,Internal Registration,4,Radiology,Ancillary,Incomplete demographics; DOB typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+452,2025-10-13,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed first/last name,Data Entry Error,Patient Name,Resolved,KND
+453,2025-04-04,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+454,2025-08-04,External Provider,5,Lab,Ancillary,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,KND
+455,2025-11-21,Internal Registration,2,Emergency Department,Emergency,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+456,2025-07-15,Internal Registration,7,Specialty Clinic,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,KND
+457,2025-08-23,Internal Registration,2,Emergency Department,Emergency,Name typo; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,KND
+458,2025-06-10,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+459,2025-09-08,Internal Registration,1,Primary Care,Ambulatory,Address typo,Data Entry Error,Contact Information,Resolved,KND
+460,2025-09-02,Internal Registration,5,Lab,Ancillary,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+461,2025-09-29,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+462,2025-03-08,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+463,2025-08-22,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+464,2025-06-25,Internal Registration,4,Radiology,Ancillary,Incomplete demographics,Registration Information,Demographics/Registration,Open,
+465,2025-04-25,External Provider,7,Specialty Clinic,Ambulatory,Referring provider name entered as patient name; Address typo,Data Entry Error,Patient Name,Resolved,Merge
+466,2025-01-20,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+467,2025-12-26,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+468,2025-05-19,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+469,2025-05-25,Internal Registration,5,Lab,Ancillary,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+470,2025-04-14,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+471,2025-09-04,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+472,2025-03-18,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+473,2025-08-22,External Provider,4,Radiology,Ancillary,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+474,2025-05-29,External Provider,1,Primary Care,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,Merge
+475,2025-01-05,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+476,2025-02-17,Internal Registration,5,Lab,Ancillary,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+477,2025-12-20,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+478,2025-01-31,Internal Registration,5,Lab,Ancillary,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+479,2025-08-13,External Provider,4,Radiology,Ancillary,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+480,2025-03-08,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+481,2025-12-14,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+482,2025-12-19,Internal Registration,5,Lab,Ancillary,DOB typo; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Resolved,Merge
+483,2025-07-17,Internal Registration,1,Primary Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+484,2025-09-11,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling name entered; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+485,2025-01-26,Internal Registration,1,Primary Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Open,
+486,2025-10-21,Internal Registration,4,Radiology,Ancillary,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+487,2025-02-22,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+488,2025-11-23,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,KND
+489,2025-07-06,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Open,
+490,2025-07-06,Internal Registration,6,Surgery,Surgical Services,DOB typo; Address typo,Data Entry Error,Date of Birth,Resolved,Merge
+491,2025-05-30,Internal Registration,1,Primary Care,Ambulatory,DOB typo; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Open,
+492,2025-07-29,Internal Registration,2,Emergency Department,Emergency,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,KND
+493,2025-04-08,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+494,2025-08-19,Internal Registration,1,Primary Care,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+495,2025-10-11,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+496,2025-10-24,External Provider,4,Radiology,Ancillary,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+497,2025-07-16,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+498,2025-05-31,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+499,2025-12-26,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+500,2025-03-09,Internal Registration,2,Emergency Department,Emergency,Transposed DOB; Address typo,Data Entry Error,Date of Birth,Resolved,KND
+501,2025-09-03,External Provider,7,Specialty Clinic,Ambulatory,DOB typo; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+502,2025-08-05,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed DOB; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Resolved,KND
+503,2025-03-24,Internal Registration,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+504,2025-10-05,External Provider,7,Specialty Clinic,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,Merge
+505,2025-11-28,Self-Schedule,8,Behavioral Health,Behavioral Health,Name typo,Data Entry Error,Patient Name,Resolved,KND
+506,2025-07-18,Internal Registration,1,Primary Care,Ambulatory,Address typo; DOB typo,Data Entry Error,Contact Information,Resolved,KND
+507,2025-04-14,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+508,2025-10-07,Internal Registration,5,Lab,Ancillary,Incomplete demographics; Address typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,KND
+509,2025-09-21,Internal Registration,1,Primary Care,Ambulatory,Name typo; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,KND
+510,2025-01-03,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+511,2025-11-17,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+512,2025-06-12,Internal Registration,5,Lab,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,KND
+513,2025-07-26,Internal Registration,7,Specialty Clinic,Ambulatory,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+514,2025-11-13,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+515,2025-11-25,Internal Registration,7,Specialty Clinic,Ambulatory,Incomplete demographics; Name typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+516,2025-10-04,Internal Registration,4,Radiology,Ancillary,Transposed DOB; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Resolved,Merge
+517,2025-09-07,Internal Registration,1,Primary Care,Ambulatory,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+518,2025-10-03,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+519,2025-02-23,Internal Registration,4,Radiology,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+520,2025-01-13,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+521,2025-10-22,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+522,2025-07-19,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+523,2025-12-25,Internal Registration,4,Radiology,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+524,2025-05-25,Internal Registration,2,Emergency Department,Emergency,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+525,2025-03-11,Internal Registration,2,Emergency Department,Emergency,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+526,2025-11-28,Internal Registration,5,Lab,Ancillary,DOB typo; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Open,
+527,2025-11-02,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+528,2025-04-19,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+529,2025-04-10,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+530,2025-10-09,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+531,2025-09-07,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+532,2025-04-10,External Provider,7,Specialty Clinic,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,Merge
+533,2025-07-06,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+534,2025-11-25,Internal Registration,7,Specialty Clinic,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+535,2025-07-03,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+536,2025-03-13,Internal Registration,2,Emergency Department,Emergency,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+537,2025-11-20,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB; Address typo,Data Entry Error,Date of Birth,Resolved,KND
+538,2025-10-06,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+539,2025-10-29,Internal Registration,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,KND
+540,2025-12-06,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+541,2025-10-17,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+542,2025-02-02,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed first/last name; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+543,2025-08-21,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+544,2025-11-21,Internal Registration,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Open,
+545,2025-07-07,Internal Registration,6,Surgery,Surgical Services,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+546,2025-04-25,Internal Registration,6,Surgery,Surgical Services,DOB typo,Data Entry Error,Date of Birth,Open,
+547,2025-03-26,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name; Transposed DOB,Data Entry Error,Patient Name,Resolved,Merge
+548,2025-03-02,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+549,2025-10-30,Internal Registration,2,Emergency Department,Emergency,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+550,2025-11-19,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+551,2025-07-27,Internal Registration,6,Surgery,Surgical Services,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+552,2025-02-13,Internal Registration,4,Radiology,Ancillary,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+553,2025-03-15,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+554,2025-06-25,Internal Registration,6,Surgery,Surgical Services,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+555,2025-09-25,External Provider,7,Specialty Clinic,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+556,2025-11-11,Internal Registration,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+557,2025-11-05,Internal Registration,6,Surgery,Surgical Services,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+558,2025-12-24,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB; Transposed first/last name,Data Entry Error,Date of Birth,Resolved,KND
+559,2025-12-23,Internal Registration,1,Primary Care,Ambulatory,Address typo; DOB typo,Data Entry Error,Contact Information,Resolved,Merge
+560,2025-11-03,Internal Registration,2,Emergency Department,Emergency,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+561,2025-03-02,Internal Registration,2,Emergency Department,Emergency,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+562,2025-08-07,Internal Registration,2,Emergency Department,Emergency,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+563,2025-04-15,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+564,2025-06-07,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+565,2025-04-28,Internal Registration,5,Lab,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+566,2025-10-09,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+567,2025-03-16,Internal Registration,5,Lab,Ancillary,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+568,2025-07-16,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+569,2025-01-30,External Provider,7,Specialty Clinic,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Open,
+570,2025-09-23,External Provider,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+571,2025-01-19,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+572,2025-07-27,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+573,2025-06-28,Internal Registration,4,Radiology,Ancillary,Name typo; DOB typo,Data Entry Error,Patient Name,Resolved,KND
+574,2025-01-03,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+575,2025-09-20,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+576,2025-06-23,External Provider,5,Lab,Ancillary,DOB typo; Address typo,Data Entry Error,Date of Birth,Resolved,KND
+577,2025-02-04,External Provider,7,Specialty Clinic,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+578,2025-06-30,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+579,2025-02-08,Internal Registration,1,Primary Care,Ambulatory,DOB typo; Name typo,Data Entry Error,Date of Birth,Resolved,KND
+580,2025-12-16,Internal Registration,1,Primary Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+581,2025-02-24,External Provider,1,Primary Care,Ambulatory,Referring provider name entered as patient name; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,Merge
+582,2025-09-04,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,KND
+583,2025-09-19,Self-Schedule,3,Urgent Care,Ambulatory,Name typo; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,KND
+584,2025-10-04,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+585,2025-01-05,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+586,2025-10-08,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+587,2025-07-10,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+588,2025-12-18,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Open,
+589,2025-03-16,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+590,2025-11-19,Internal Registration,5,Lab,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+591,2025-11-19,Internal Registration,5,Lab,Ancillary,DOB typo; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+592,2025-06-26,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+593,2025-03-31,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+594,2025-02-10,External Provider,1,Primary Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+595,2025-06-22,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+596,2025-06-10,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+597,2025-07-05,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+598,2025-05-01,Internal Registration,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+599,2025-07-23,Internal Registration,7,Specialty Clinic,Ambulatory,Name typo; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,Merge
+600,2025-07-19,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,KND
+601,2025-01-15,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,KND
+602,2025-10-08,Self-Schedule,3,Urgent Care,Ambulatory,Name typo; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,KND
+603,2025-11-22,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+604,2025-04-27,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+605,2025-03-11,Internal Registration,2,Emergency Department,Emergency,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+606,2025-01-05,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+607,2025-10-15,Internal Registration,5,Lab,Ancillary,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+608,2025-05-20,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered; Sibling DOB entered,Data Entry Error,Patient Name,Resolved,Merge
+609,2025-11-23,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+610,2025-01-12,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Open,
+611,2025-03-19,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+612,2025-12-23,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+613,2025-08-29,Internal Registration,2,Emergency Department,Emergency,Incomplete demographics; Name typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+614,2025-05-08,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+615,2025-02-18,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+616,2025-11-19,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+617,2025-07-04,Internal Registration,5,Lab,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+618,2025-03-27,Internal Registration,6,Surgery,Surgical Services,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+619,2025-10-25,Internal Registration,4,Radiology,Ancillary,DOB typo,Data Entry Error,Date of Birth,Open,
+620,2025-02-16,Internal Registration,2,Emergency Department,Emergency,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+621,2025-10-02,Internal Registration,2,Emergency Department,Emergency,Address typo; Name typo,Data Entry Error,Contact Information,Resolved,Merge
+622,2025-08-13,Internal Registration,1,Primary Care,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,KND
+623,2025-12-28,Internal Registration,1,Primary Care,Ambulatory,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+624,2025-08-28,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+625,2025-01-01,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling name entered; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+626,2025-06-14,Internal Registration,4,Radiology,Ancillary,Incomplete demographics; Transposed DOB,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+627,2025-10-10,Internal Registration,5,Lab,Ancillary,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+628,2025-01-23,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+629,2025-07-18,Internal Registration,1,Primary Care,Ambulatory,DOB typo; Transposed first/last name,Data Entry Error,Date of Birth,Resolved,Merge
+630,2025-09-09,Internal Registration,4,Radiology,Ancillary,DOB typo; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+631,2025-08-01,External Provider,4,Radiology,Ancillary,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+632,2025-06-05,Internal Registration,5,Lab,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+633,2025-04-09,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+634,2025-02-24,Internal Registration,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+635,2025-04-03,Internal Registration,4,Radiology,Ancillary,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+636,2025-06-11,Internal Registration,4,Radiology,Ancillary,Transposed first/last name,Data Entry Error,Patient Name,Resolved,KND
+637,2025-05-04,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed first/last name; Transposed DOB,Data Entry Error,Patient Name,Resolved,Merge
+638,2025-08-18,Internal Registration,1,Primary Care,Ambulatory,Incomplete demographics; DOB typo,Data Entry Error; Registration Information,Demographics/Registration,Open,
+639,2025-06-04,External Provider,1,Primary Care,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,Merge
+640,2025-05-22,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+641,2025-03-21,External Provider,7,Specialty Clinic,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+642,2025-07-24,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+643,2025-12-20,Internal Registration,1,Primary Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+644,2025-07-15,Internal Registration,6,Surgery,Surgical Services,Transposed DOB,Data Entry Error,Date of Birth,Resolved,KND
+645,2025-04-27,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Name typo,Data Entry Error,Date of Birth,Resolved,KND
+646,2025-10-17,Internal Registration,6,Surgery,Surgical Services,Transposed DOB; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+647,2025-08-17,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+648,2025-06-22,Internal Registration,4,Radiology,Ancillary,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+649,2025-12-24,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+650,2025-11-12,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+651,2025-10-22,External Provider,7,Specialty Clinic,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,Merge
+652,2025-01-13,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+653,2025-08-14,Internal Registration,1,Primary Care,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+654,2025-02-27,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+655,2025-06-25,Internal Registration,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+656,2025-04-15,Internal Registration,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+657,2025-12-22,Internal Registration,5,Lab,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Open,
+658,2025-05-26,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+659,2025-12-05,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+660,2025-11-29,Self-Schedule,8,Behavioral Health,Behavioral Health,Name typo,Data Entry Error,Patient Name,Resolved,KND
+661,2025-11-02,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+662,2025-05-07,Internal Registration,1,Primary Care,Ambulatory,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+663,2025-07-01,External Provider,1,Primary Care,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+664,2025-01-16,Internal Registration,1,Primary Care,Ambulatory,Transposed first/last name; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,KND
+665,2025-07-15,External Provider,5,Lab,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+666,2025-06-09,Internal Registration,5,Lab,Ancillary,Transposed DOB; Transposed first/last name,Data Entry Error,Date of Birth,Resolved,Merge
+667,2025-04-14,External Provider,1,Primary Care,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,Merge
+668,2025-03-16,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Open,
+669,2025-04-05,Internal Registration,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+670,2025-08-15,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+671,2025-03-09,Internal Registration,6,Surgery,Surgical Services,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+672,2025-04-29,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+673,2025-08-29,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,KND
+674,2025-07-31,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name; Address typo,Data Entry Error,Patient Name,Resolved,Merge
+675,2025-08-13,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+676,2025-01-22,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+677,2025-11-25,Internal Registration,6,Surgery,Surgical Services,DOB typo; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Resolved,Merge
+678,2025-05-06,Internal Registration,5,Lab,Ancillary,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+679,2025-05-30,Internal Registration,2,Emergency Department,Emergency,Transposed DOB; Transposed first/last name,Data Entry Error,Date of Birth,Resolved,Merge
+680,2025-12-20,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,KND
+681,2025-12-23,Internal Registration,1,Primary Care,Ambulatory,Transposed first/last name; Address typo,Data Entry Error,Patient Name,Resolved,KND
+682,2025-04-14,Internal Registration,2,Emergency Department,Emergency,Name typo,Data Entry Error,Patient Name,Resolved,KND
+683,2025-03-05,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+684,2025-09-19,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+685,2025-12-04,Internal Registration,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+686,2025-08-17,Internal Registration,1,Primary Care,Ambulatory,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+687,2025-09-12,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+688,2025-09-01,Internal Registration,4,Radiology,Ancillary,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+689,2025-11-18,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+690,2025-01-17,Internal Registration,6,Surgery,Surgical Services,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+691,2025-04-02,Internal Registration,6,Surgery,Surgical Services,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+692,2025-08-22,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+693,2025-02-04,Internal Registration,2,Emergency Department,Emergency,Address typo,Data Entry Error,Contact Information,Resolved,KND
+694,2025-06-18,Internal Registration,6,Surgery,Surgical Services,Transposed first/last name,Data Entry Error,Patient Name,Resolved,KND
+695,2025-11-19,Internal Registration,4,Radiology,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+696,2025-06-12,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB; Address typo,Data Entry Error,Date of Birth,Resolved,Merge
+697,2025-11-20,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+698,2025-08-27,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+699,2025-10-14,Internal Registration,1,Primary Care,Ambulatory,Address typo; Incomplete demographics,Data Entry Error; Registration Information,Contact Information,Resolved,Merge
+700,2025-06-03,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+701,2025-11-12,Internal Registration,2,Emergency Department,Emergency,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+702,2025-08-31,External Provider,4,Radiology,Ancillary,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+703,2025-06-21,Internal Registration,4,Radiology,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+704,2025-10-23,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name; Sibling DOB entered,Data Entry Error,Patient Name,Resolved,Merge
+705,2025-07-12,Internal Registration,5,Lab,Ancillary,DOB typo; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Resolved,Merge
+706,2025-06-07,Internal Registration,6,Surgery,Surgical Services,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+707,2025-08-20,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+708,2025-04-14,Internal Registration,2,Emergency Department,Emergency,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+709,2025-09-05,External Provider,7,Specialty Clinic,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+710,2025-12-13,Internal Registration,4,Radiology,Ancillary,Name typo; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,KND
+711,2025-06-09,External Provider,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+712,2025-09-24,External Provider,7,Specialty Clinic,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,Merge
+713,2025-04-13,Internal Registration,5,Lab,Ancillary,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+714,2025-05-21,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+715,2025-05-19,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+716,2025-06-23,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+717,2025-02-14,Internal Registration,1,Primary Care,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+718,2025-11-12,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+719,2025-08-27,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+720,2025-08-27,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+721,2025-04-04,Self-Schedule,8,Behavioral Health,Behavioral Health,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+722,2025-06-29,Internal Registration,5,Lab,Ancillary,Incomplete demographics; Transposed first/last name,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+723,2025-07-27,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+724,2025-07-25,Internal Registration,5,Lab,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+725,2025-04-17,Internal Registration,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+726,2025-12-06,Internal Registration,4,Radiology,Ancillary,Transposed first/last name; Address typo,Data Entry Error,Patient Name,Resolved,Merge
+727,2025-02-19,Internal Registration,5,Lab,Ancillary,Incomplete demographics; Name typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+728,2025-09-11,Internal Registration,1,Primary Care,Ambulatory,Name typo; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,Merge
+729,2025-01-01,Internal Registration,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,KND
+730,2025-04-16,Internal Registration,5,Lab,Ancillary,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+731,2025-08-11,Internal Registration,2,Emergency Department,Emergency,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,KND
+732,2025-02-01,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed DOB; Transposed first/last name,Data Entry Error,Date of Birth,Resolved,KND
+733,2025-05-25,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+734,2025-04-07,Internal Registration,1,Primary Care,Ambulatory,DOB typo; Transposed first/last name,Data Entry Error,Date of Birth,Resolved,Merge
+735,2025-03-06,Internal Registration,6,Surgery,Surgical Services,Transposed first/last name,Data Entry Error,Patient Name,Resolved,KND
+736,2025-03-11,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+737,2025-08-06,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+738,2025-08-06,Internal Registration,2,Emergency Department,Emergency,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+739,2025-07-07,Internal Registration,4,Radiology,Ancillary,DOB typo; Transposed first/last name,Data Entry Error,Date of Birth,Resolved,Merge
+740,2025-02-10,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+741,2025-08-30,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+742,2025-11-10,Internal Registration,5,Lab,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+743,2025-08-04,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Sibling name entered,Data Entry Error,Date of Birth,Resolved,Merge
+744,2025-06-05,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+745,2025-05-30,Internal Registration,4,Radiology,Ancillary,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+746,2025-05-23,Internal Registration,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,KND
+747,2025-10-30,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+748,2025-04-03,Internal Registration,5,Lab,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+749,2025-03-20,Internal Registration,6,Surgery,Surgical Services,Name typo,Data Entry Error,Patient Name,Resolved,KND
+750,2025-03-27,Internal Registration,5,Lab,Ancillary,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+751,2025-03-27,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+752,2025-12-16,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+753,2025-08-18,Internal Registration,2,Emergency Department,Emergency,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,KND
+754,2025-07-01,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+755,2025-12-02,External Provider,7,Specialty Clinic,Ambulatory,Incomplete demographics; Name typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+756,2025-09-24,Internal Registration,2,Emergency Department,Emergency,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+757,2025-01-07,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,KND
+758,2025-01-18,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+759,2025-11-23,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Name typo,Data Entry Error,Date of Birth,Open,
+760,2025-11-28,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling name entered,Data Entry Error,Patient Name,Resolved,KND
+761,2025-05-22,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed DOB; Transposed first/last name,Data Entry Error,Date of Birth,Resolved,Merge
+762,2025-05-22,Internal Registration,5,Lab,Ancillary,Address typo,Data Entry Error,Contact Information,Resolved,KND
+763,2025-05-16,Internal Registration,2,Emergency Department,Emergency,Name typo,Data Entry Error,Patient Name,Open,
+764,2025-10-04,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+765,2025-02-07,Internal Registration,1,Primary Care,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+766,2025-01-20,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+767,2025-09-09,Internal Registration,2,Emergency Department,Emergency,Incomplete demographics; Transposed DOB,Data Entry Error; Registration Information,Demographics/Registration,Resolved,KND
+768,2025-03-04,Self-Schedule,3,Urgent Care,Ambulatory,Name typo; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,KND
+769,2025-11-28,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+770,2025-04-01,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+771,2025-12-19,Internal Registration,7,Specialty Clinic,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+772,2025-10-31,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+773,2025-08-19,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered; Guardian entered own DOB,Data Entry Error,Patient Name,Open,
+774,2025-04-19,External Provider,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+775,2025-10-24,Internal Registration,5,Lab,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+776,2025-05-05,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+777,2025-08-22,Internal Registration,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,KND
+778,2025-11-12,Internal Registration,6,Surgery,Surgical Services,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+779,2025-12-14,Self-Schedule,8,Behavioral Health,Behavioral Health,Name typo,Data Entry Error,Patient Name,Open,
+780,2025-04-20,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,KND
+781,2025-12-23,Internal Registration,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+782,2025-11-20,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,KND
+783,2025-02-15,Internal Registration,5,Lab,Ancillary,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+784,2025-03-06,Internal Registration,4,Radiology,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+785,2025-01-20,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+786,2025-08-03,Internal Registration,5,Lab,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+787,2025-10-04,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+788,2025-03-18,Internal Registration,2,Emergency Department,Emergency,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+789,2025-11-27,Internal Registration,7,Specialty Clinic,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+790,2025-02-23,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+791,2025-05-01,Internal Registration,7,Specialty Clinic,Ambulatory,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+792,2025-02-26,Internal Registration,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+793,2025-09-06,Self-Schedule,3,Urgent Care,Ambulatory,Name typo; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+794,2025-08-23,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+795,2025-03-11,Internal Registration,4,Radiology,Ancillary,DOB typo; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+796,2025-03-22,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+797,2025-04-28,Internal Registration,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Open,
+798,2025-05-23,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+799,2025-03-18,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,KND
+800,2025-09-16,External Provider,5,Lab,Ancillary,Referring provider name entered as patient name,Data Entry Error,Patient Name,Open,
+801,2025-05-04,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+802,2025-05-03,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+803,2025-10-26,Internal Registration,1,Primary Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+804,2025-08-26,Self-Schedule,3,Urgent Care,Ambulatory,Name typo; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+805,2025-06-01,Internal Registration,1,Primary Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+806,2025-06-21,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered; Sibling DOB entered,Data Entry Error,Patient Name,Resolved,Merge
+807,2025-11-13,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Resolved,Merge
+808,2025-03-12,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,KND
+809,2025-12-26,External Provider,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+810,2025-05-22,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+811,2025-09-30,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+812,2025-02-03,Internal Registration,4,Radiology,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,KND
+813,2025-02-09,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+814,2025-11-18,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+815,2025-11-27,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+816,2025-06-21,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+817,2025-10-08,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+818,2025-09-05,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+819,2025-11-13,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; Guardian entered own DOB,Data Entry Error,Patient Name,Open,
+820,2025-12-08,External Provider,4,Radiology,Ancillary,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+821,2025-07-09,Internal Registration,1,Primary Care,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+822,2025-10-04,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+823,2025-08-23,External Provider,7,Specialty Clinic,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,KND
+824,2025-10-21,External Provider,1,Primary Care,Ambulatory,DOB typo; Referring provider name entered as patient name,Data Entry Error,Date of Birth,Resolved,KND
+825,2025-01-21,Internal Registration,5,Lab,Ancillary,Incomplete demographics; DOB typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+826,2025-02-17,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+827,2025-04-11,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,KND
+828,2025-04-10,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+829,2025-08-07,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+830,2025-10-15,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Open,
+831,2025-08-06,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+832,2025-09-26,Internal Registration,2,Emergency Department,Emergency,Transposed DOB; Name typo,Data Entry Error,Date of Birth,Resolved,KND
+833,2025-08-01,External Provider,1,Primary Care,Ambulatory,Incomplete demographics; Referring provider name entered as patient name,Data Entry Error; Registration Information,Demographics/Registration,Resolved,KND
+834,2025-05-29,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,KND
+835,2025-01-14,Internal Registration,1,Primary Care,Ambulatory,Incomplete demographics; DOB typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+836,2025-12-07,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+837,2025-05-22,Internal Registration,2,Emergency Department,Emergency,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+838,2025-05-13,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+839,2025-05-13,Internal Registration,2,Emergency Department,Emergency,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+840,2025-05-20,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+841,2025-04-10,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+842,2025-12-17,Internal Registration,1,Primary Care,Ambulatory,Address typo,Data Entry Error,Contact Information,Resolved,KND
+843,2025-03-15,Internal Registration,2,Emergency Department,Emergency,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+844,2025-02-22,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+845,2025-09-30,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Sibling name entered,Data Entry Error,Date of Birth,Resolved,KND
+846,2025-01-09,Internal Registration,5,Lab,Ancillary,Transposed first/last name; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,Merge
+847,2025-06-25,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+848,2025-04-18,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; Sibling DOB entered,Data Entry Error,Patient Name,Resolved,Merge
+849,2025-08-09,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,KND
+850,2025-02-19,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+851,2025-02-16,Internal Registration,7,Specialty Clinic,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+852,2025-11-10,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling name entered,Data Entry Error,Patient Name,Resolved,KND
+853,2025-04-09,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+854,2025-12-29,External Provider,1,Primary Care,Ambulatory,Referring provider name entered as patient name; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,KND
+855,2025-07-14,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,KND
+856,2025-09-24,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+857,2025-11-04,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling name entered; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+858,2025-08-08,Internal Registration,5,Lab,Ancillary,DOB typo; Transposed first/last name,Data Entry Error,Date of Birth,Open,
+859,2025-09-09,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Open,
+860,2025-12-22,Internal Registration,2,Emergency Department,Emergency,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+861,2025-06-23,Internal Registration,1,Primary Care,Ambulatory,Incomplete demographics; Name typo,Data Entry Error; Registration Information,Demographics/Registration,Open,
+862,2025-10-25,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+863,2025-09-06,Internal Registration,5,Lab,Ancillary,Incomplete demographics; DOB typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,KND
+864,2025-03-10,Internal Registration,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+865,2025-06-17,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+866,2025-08-27,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,KND
+867,2025-10-07,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+868,2025-01-19,Self-Schedule,8,Behavioral Health,Behavioral Health,Name typo; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+869,2025-02-26,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+870,2025-03-22,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+871,2025-05-26,Internal Registration,2,Emergency Department,Emergency,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+872,2025-01-14,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+873,2025-07-30,Internal Registration,4,Radiology,Ancillary,Transposed first/last name,Data Entry Error,Patient Name,Open,
+874,2025-02-03,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,KND
+875,2025-08-05,Internal Registration,1,Primary Care,Ambulatory,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+876,2025-07-13,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,KND
+877,2025-09-12,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+878,2025-09-12,Internal Registration,5,Lab,Ancillary,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+879,2025-06-02,Internal Registration,7,Specialty Clinic,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+880,2025-02-18,External Provider,7,Specialty Clinic,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,KND
+881,2025-02-09,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+882,2025-08-21,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+883,2025-12-05,Internal Registration,4,Radiology,Ancillary,Transposed DOB; Transposed first/last name,Data Entry Error,Date of Birth,Resolved,Merge
+884,2025-08-11,External Provider,4,Radiology,Ancillary,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+885,2025-12-17,External Provider,4,Radiology,Ancillary,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,Merge
+886,2025-07-31,Internal Registration,6,Surgery,Surgical Services,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+887,2025-03-18,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+888,2025-01-19,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Sibling name entered,Data Entry Error,Date of Birth,Resolved,Merge
+889,2025-11-26,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+890,2025-11-05,Internal Registration,7,Specialty Clinic,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+891,2025-03-13,Self-Schedule,3,Urgent Care,Ambulatory,Name typo; Sibling DOB entered,Data Entry Error,Patient Name,Resolved,Merge
+892,2025-09-26,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+893,2025-10-27,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+894,2025-05-21,Internal Registration,6,Surgery,Surgical Services,Incomplete demographics; DOB typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+895,2025-06-12,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+896,2025-09-01,Internal Registration,2,Emergency Department,Emergency,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+897,2025-12-06,Internal Registration,6,Surgery,Surgical Services,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,KND
+898,2025-10-01,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB; Address typo,Data Entry Error,Date of Birth,Resolved,Merge
+899,2025-05-11,Internal Registration,6,Surgery,Surgical Services,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,KND
+900,2025-06-12,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+901,2025-09-09,Internal Registration,5,Lab,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,KND
+902,2025-12-24,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Name typo,Data Entry Error,Date of Birth,Resolved,KND
+903,2025-12-22,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+904,2025-07-25,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+905,2025-11-29,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+906,2025-03-10,Internal Registration,6,Surgery,Surgical Services,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+907,2025-07-13,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+908,2025-11-17,External Provider,5,Lab,Ancillary,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+909,2025-11-13,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+910,2025-09-27,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+911,2025-04-08,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+912,2025-04-16,External Provider,4,Radiology,Ancillary,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+913,2025-03-16,Internal Registration,7,Specialty Clinic,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+914,2025-11-28,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+915,2025-07-16,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+916,2025-05-01,Internal Registration,5,Lab,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+917,2025-01-24,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+918,2025-10-14,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+919,2025-02-15,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+920,2025-05-24,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+921,2025-05-16,Internal Registration,7,Specialty Clinic,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,KND
+922,2025-10-12,Internal Registration,2,Emergency Department,Emergency,Address typo,Data Entry Error,Contact Information,Resolved,KND
+923,2025-12-28,Internal Registration,5,Lab,Ancillary,Name typo; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+924,2025-03-17,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Sibling name entered,Data Entry Error,Date of Birth,Resolved,Merge
+925,2025-10-26,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+926,2025-02-18,External Provider,1,Primary Care,Ambulatory,Referring provider name entered as patient name; Address typo,Data Entry Error,Patient Name,Resolved,Merge
+927,2025-02-24,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+928,2025-05-18,Internal Registration,1,Primary Care,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+929,2025-10-19,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Resolved,Merge
+930,2025-05-11,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB; Sibling name entered,Data Entry Error,Date of Birth,Resolved,Merge
+931,2025-12-01,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name; Sibling DOB entered,Data Entry Error,Patient Name,Resolved,KND
+932,2025-07-08,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Sibling name entered,Data Entry Error,Date of Birth,Resolved,Merge
+933,2025-07-08,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name; Transposed DOB,Data Entry Error,Patient Name,Resolved,KND
+934,2025-04-25,Internal Registration,2,Emergency Department,Emergency,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+935,2025-02-10,Internal Registration,5,Lab,Ancillary,Transposed first/last name; Transposed DOB,Data Entry Error,Patient Name,Resolved,Merge
+936,2025-09-25,External Provider,7,Specialty Clinic,Ambulatory,Referring provider name entered as patient name,Data Entry Error,Patient Name,Resolved,KND
+937,2025-07-31,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+938,2025-09-15,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+939,2025-08-02,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+940,2025-05-16,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+941,2025-08-11,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+942,2025-12-03,Internal Registration,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+943,2025-07-04,External Provider,7,Specialty Clinic,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Open,
+944,2025-04-08,Internal Registration,7,Specialty Clinic,Ambulatory,Incomplete demographics,Registration Information,Demographics/Registration,Resolved,Merge
+945,2025-04-08,Self-Schedule,3,Urgent Care,Ambulatory,Name typo; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,KND
+946,2025-12-26,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+947,2025-07-20,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+948,2025-09-11,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Open,
+949,2025-10-30,Internal Registration,4,Radiology,Ancillary,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+950,2025-10-23,Internal Registration,7,Specialty Clinic,Ambulatory,Incomplete demographics; DOB typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+951,2025-06-26,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+952,2025-12-03,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,KND
+953,2025-02-14,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own DOB; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+954,2025-09-10,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+955,2025-03-23,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+956,2025-04-27,Self-Schedule,8,Behavioral Health,Behavioral Health,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+957,2025-10-13,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+958,2025-08-13,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+959,2025-02-22,Internal Registration,7,Specialty Clinic,Ambulatory,Incomplete demographics; Address typo,Data Entry Error; Registration Information,Demographics/Registration,Resolved,KND
+960,2025-03-22,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,KND
+961,2025-03-12,Internal Registration,5,Lab,Ancillary,Transposed first/last name; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,Merge
+962,2025-05-27,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+963,2025-03-19,Internal Registration,1,Primary Care,Ambulatory,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+964,2025-09-22,Internal Registration,4,Radiology,Ancillary,Name typo; Incomplete demographics,Data Entry Error; Registration Information,Patient Name,Resolved,KND
+965,2025-02-05,Internal Registration,2,Emergency Department,Emergency,Name typo,Data Entry Error,Patient Name,Resolved,KND
+966,2025-10-22,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; Sibling DOB entered,Data Entry Error,Patient Name,Resolved,Merge
+967,2025-12-15,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered; Sibling name entered,Data Entry Error,Date of Birth,Resolved,Merge
+968,2025-03-17,Internal Registration,6,Surgery,Surgical Services,DOB typo; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Resolved,Merge
+969,2025-12-24,Internal Registration,2,Emergency Department,Emergency,Transposed first/last name,Data Entry Error,Patient Name,Resolved,Merge
+970,2025-10-03,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+971,2025-10-10,Self-Schedule,8,Behavioral Health,Behavioral Health,Guardian entered own name; DOB typo,Data Entry Error,Patient Name,Resolved,Merge
+972,2025-05-13,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+973,2025-11-18,Self-Schedule,8,Behavioral Health,Behavioral Health,DOB typo; Guardian entered own name,Data Entry Error,Date of Birth,Resolved,Merge
+974,2025-06-23,Internal Registration,1,Primary Care,Ambulatory,Incomplete demographics; Transposed first/last name,Data Entry Error; Registration Information,Demographics/Registration,Resolved,Merge
+975,2025-11-01,External Provider,4,Radiology,Ancillary,DOB typo; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Resolved,Merge
+976,2025-07-13,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+977,2025-02-20,Internal Registration,1,Primary Care,Ambulatory,Transposed DOB,Data Entry Error,Date of Birth,Resolved,Merge
+978,2025-04-20,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+979,2025-05-16,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+980,2025-03-25,Internal Registration,4,Radiology,Ancillary,Transposed DOB; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Resolved,Merge
+981,2025-04-19,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; Sibling DOB entered,Data Entry Error,Patient Name,Resolved,Merge
+982,2025-07-29,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+983,2025-07-11,Self-Schedule,3,Urgent Care,Ambulatory,Sibling name entered,Data Entry Error,Patient Name,Resolved,Merge
+984,2025-01-23,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name; Guardian entered own DOB,Data Entry Error,Patient Name,Resolved,Merge
+985,2025-11-07,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+986,2025-06-16,Self-Schedule,3,Urgent Care,Ambulatory,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+987,2025-01-24,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,Merge
+988,2025-12-29,External Provider,5,Lab,Ancillary,DOB typo; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Resolved,Merge
+989,2025-10-05,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Open,
+990,2025-03-03,Internal Registration,1,Primary Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,KND
+991,2025-02-13,Internal Registration,4,Radiology,Ancillary,DOB typo; Incomplete demographics,Data Entry Error; Registration Information,Date of Birth,Resolved,Merge
+992,2025-08-12,Internal Registration,4,Radiology,Ancillary,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+993,2025-10-05,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own DOB,Data Entry Error,Date of Birth,Resolved,KND
+994,2025-03-28,Self-Schedule,3,Urgent Care,Ambulatory,Guardian entered own name,Data Entry Error,Patient Name,Resolved,Merge
+995,2025-03-14,Self-Schedule,8,Behavioral Health,Behavioral Health,Sibling DOB entered,Data Entry Error,Date of Birth,Resolved,Merge
+996,2025-11-02,Self-Schedule,3,Urgent Care,Ambulatory,Name typo,Data Entry Error,Patient Name,Resolved,Merge
+997,2025-07-28,Internal Registration,2,Emergency Department,Emergency,DOB typo; Name typo,Data Entry Error,Date of Birth,Resolved,Merge
+998,2025-10-28,Self-Schedule,3,Urgent Care,Ambulatory,DOB typo,Data Entry Error,Date of Birth,Resolved,Merge
+999,2025-02-12,Internal Registration,1,Primary Care,Ambulatory,Address typo,Data Entry Error,Contact Information,Resolved,Merge
+1000,2025-10-12,Internal Registration,4,Radiology,Ancillary,Name typo; DOB typo,Data Entry Error,Patient Name,Open,
