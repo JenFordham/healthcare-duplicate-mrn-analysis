@@ -37,7 +37,12 @@ The objective of this project was to identify the highest-impact opportunities f
 
 ## Project Workflow
 
-![Project Workflow](images/workflow.PNG)
+ - Business Problem
+ - Domain Knowledge
+ - Python Simulation
+ - SQL Analysis
+ - Power BI Dashboard
+ - Recommendations
 
 ## Interactive Dashboard
 
