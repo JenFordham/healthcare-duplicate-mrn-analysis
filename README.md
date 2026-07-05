@@ -59,7 +59,7 @@ The objective of this project was to identify the highest-impact opportunities f
 Based on the analytical findings, five targeted process improvements were identified:
 
 - Improve Self-Schedule registration workflows.
-- Reinforce the Reliable Search Method for external providers.
+- Reinforce the Reliable Search Method for both internal and external providers.
 - Reinforce STAR (Stop, Think, Act, Review) during registration.
 - Provide targeted Duplicate MRN training for frequent duplicate creators.
 - Monitor department performance using real-time dashboards and quarterly quality improvement rounding.
