@@ -62,10 +62,10 @@ Based on the analytical findings, five targeted process improvements were identi
   Collaborate with the Self-Schedule team to simplify parent registration workflows and clarify field instructions. This addresses the highest-volume source of duplicate MRNs.
 
 - **Reinforce the Reliable Search Method**  
-  Send targeted email reminders and distribute the Reliable Search Method guide to external providers with higher duplicate creation rates to reduce duplicate creation before new MRNs are generated.
+  Reinforce use of the Reliable Search Method for both internal registration staff and external providers through refresher education, targeted email reminders, and distribution of the Reliable Search Method guide. This helps staff locate existing patient records before creating new MRNs, reducing preventable duplicate record creation.
 
-- **Reinforce the STAR Safety Tool**  
-  Reinforce use of STAR (Stop, Think, Act, Review) during patient registration to encourage staff to verify patient identifiers and improve registration data accuracy.
+- **Reinforce Registration Safety Tools**  
+  Reinforce use of **STAR (Stop, Think, Act, Review)** during in-person registration and **Repeat-Back** during phone registrations to encourage staff to verify patient identifiers before completing registration. These practices help improve registration data accuracy and reduce preventable duplicate MRN creation.
 
 - **Provide Targeted Duplicate MRN Training**  
   Require frequent duplicate creators to complete the *Duplicate MRNs & Overlays* learning course, providing targeted coaching based on performance.
